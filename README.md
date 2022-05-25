@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Microverse Pull Request Project
 
 > My first Microverse project
 
@@ -12,9 +12,7 @@
 - VSCode
 
 
-## Authors
-
-👤 **Author1**
+## Author
 
 - Vitor Guedes Madeira
 
